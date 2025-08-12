@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Firebase secret key
+serviceAccountKey.json
+
+# Env config
+.env
+
+# Build output
+dist/
+
+# Logs
+*.log
